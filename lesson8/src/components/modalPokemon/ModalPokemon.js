@@ -12,7 +12,6 @@ const ModalPokemon = ({
             <div className={classes.modalContent}>
                 <div className={classes.close} onClick={handleShow}>
                     <div className={classes.img_box}>
-
                         <img src={close} alt="close"/>
                     </div>
                 </div>
